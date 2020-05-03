@@ -1,0 +1,29 @@
+.Pon{
+    width: 100%;
+  
+    background-color: lightblue ;
+    margin-top: 0;
+  
+}
+.D{
+    height: 10em;
+}
+.DH1{
+    text-align: center;
+    font-size: 7em;
+    margin-top: 10px;
+}
+.Photo{
+    margin-top: 10px;
+    margin-left: 20%;
+   
+}
+.rez{
+    width:200px;
+    height: 20em;
+    background-color: blue;
+}
+
+.otk{
+background-color: red;
+}
